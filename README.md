@@ -10,6 +10,7 @@
 ![image](https://github.com/Today-to-Lsp/Telegram-bot-api-php-proxy/assets/31529293/a2519ebc-0729-4857-a6f0-a0cc5a7b1721)
 ![image](https://github.com/Today-to-Lsp/Telegram-bot-api-php-proxy/assets/31529293/486207a6-d513-4e77-862c-f3a91694763c)
 ![image](https://github.com/Today-to-Lsp/Telegram-bot-api-php-proxy/assets/31529293/6452fa6c-09e9-4010-8594-d4b243b2ca5a)
+
 设置伪静态规则
 ```
 rewrite ^/bot.*$ /tgproxy.php last;
